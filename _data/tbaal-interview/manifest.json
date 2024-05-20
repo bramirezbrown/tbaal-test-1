@@ -26,7 +26,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://texashistory.unt.edu/ark:/67531/metadc1984057/m1/",
+                  "id": "<div style="overflow:hidden;margin-bottom:36px;padding-bottom:50%;position:relative;height:0;"><iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://texashistory.unt.edu/ark:/67531/metadc1984057/m1/embed/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
                     "duration": 5726.0
                 },
                 "target": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview/canvas-1/canvas"
