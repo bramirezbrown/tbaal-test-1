@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "[TBAAL - interview with Curtis King]" ] },
+    "summary": { "en": [ "This new project is a test of using the AudinAnotate software." ] },
+    "items": [
+    ]
+}
