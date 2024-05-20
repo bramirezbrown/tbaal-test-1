@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: TBAAL interview
 manifest_name: tbaal-interview
 permalink: tbaal-interview

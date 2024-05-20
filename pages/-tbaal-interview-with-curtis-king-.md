@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: "[TBAAL - interview with Curtis King]"
 manifest_name: "-tbaal-interview-with-curtis-king-"
 permalink: "-tbaal-interview-with-curtis-king-"
