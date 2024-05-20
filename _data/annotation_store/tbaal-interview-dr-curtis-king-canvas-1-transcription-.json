@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bramirezbrown.github.io/tbaal-test-1/annotations/tbaal-interview-dr-curtis-king-canvas-1-transcription-.json",
+  "type": "AnnotationPage",
+  "label": "Transcription ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay today is December 28, 2009. I'm meeting with Mr. Curtis King and this is Sharon Parker to talk about the Martin Luther King Ceremony for HUD in 2010. So Mr. King if you could just",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,17.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "you do for your organization and how you got started.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18.0,20.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well you know I'm actually the founder and the president of the Black Academy, the Black Academy of Arts and Letters. And it's an organization that actually started, well I'm originally",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,31.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from Mississippi and I went to Jackson State University in Jackson, Mississippi and my professor was Margaret Walker. She was a very well known writer and a novelist. She did ten books and two of her most popular books are",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.0,46.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jubilee and For My People. And I went to a conference in Chicago in 1972 and when I went to that conference in Chicago in 1972 I met everybody you could possibly think of.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.0,57.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ruby Dee, Austin Davis, Diane Carroll, Sidney",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tbaal-interview-dr-curtis-king-canvas-1-transcription--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Poitier, Harry Belafonte, Maya Angelou, Esther Rowe, Bea Richards, Romare Bearden, Elizabeth Cantlett, I mean Marie Evans, just endless group of people. And it was called Conference to Assess the State of Black Arts and Letters",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "61.0,76.0"
+        }
+      }
+    }
+  ]
+}
