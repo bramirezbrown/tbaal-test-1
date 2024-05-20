@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "TBAAL interview" ] },
+    "homepage": [
+      {
+        "id": "https://www.google.com/search?q=the+portal+to+texas+history&amp;rlz=1C1GCEA_enUS1047US1047&amp;oq=the+por&amp;gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIQCAEQLhiDARixAxiABBiKBTIGCAIQRRhAMgYIAxBFGDkyEwgEEC4YgwEYrwEYxwEYsQMYgAQyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQgxMzkwajBqN6gCALACAA&amp;sourceid=chrome&amp;ie=UTF-8",
+        "type": "Text",
+        "label": { "en": [ "TBAAL interview" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5726.0,
+        "items": [
+          {
+            "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://texashistory.unt.edu/ark:/67531/metadc1984057/m1/",
+                    "duration": 5726.0
+                },
+                "target": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
