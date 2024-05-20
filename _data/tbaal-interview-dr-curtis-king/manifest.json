@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "TBAAL interview- Dr. Curtis King" ] },
+    "homepage": [
+      {
+        "id": "https://texashistory.unt.edu/",
+        "type": "Text",
+        "label": { "en": [ "TBAAL interview- Dr. Curtis King" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://texashistory.unt.edu/explore/partners/UNTA/",
+        "type": "Agent",
+        "label": { "en": [ "UNT Special Collections" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5726.0,
+        "items": [
+          {
+            "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://texashistory.unt.edu/ark:/67531/metadc1984057/m1/",
+                    "duration": 5726.0
+                },
+                "target": "https://bramirezbrown.github.io/tbaal-test-1/tbaal-interview-dr-curtis-king/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
